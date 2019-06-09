@@ -1,4 +1,4 @@
-# jieli
+# jieli  『使用Qt 5.13』
 ---
 
 这个软件只是把数据整理成fr.txt，以供translate.exe直接使用，对上机来说使用比较简单。
