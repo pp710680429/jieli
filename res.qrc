@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/run">
+        <file>icon/unstructured data.png</file>
+    </qresource>
+</RCC>
